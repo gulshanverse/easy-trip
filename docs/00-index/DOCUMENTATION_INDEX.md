@@ -31,8 +31,8 @@ Status values: `Not Started` -> `Draft` -> `In Review` -> `Approved` -> `Living`
 
 | Document | Priority | Status |
 |---|---|---|
-| [Product Vision](./03-product/product-vision.md) | High | Not Started |
-| [MVP Scope Definition](./03-product/mvp-scope.md) | High | Not Started |
+| [Product Vision](./03-product/product-vision.md) | High | Draft |
+| [MVP Scope Definition](./03-product/mvp-scope.md) | High | Draft |
 | [Feature Roadmap](./03-product/feature-roadmap.md) | High | Not Started |
 | [User Personas](./03-product/user-personas.md) | High | Not Started |
 | [User Stories & Backlog](./03-product/user-stories-backlog.md) | Medium | Not Started |
@@ -64,12 +64,12 @@ Status values: `Not Started` -> `Draft` -> `In Review` -> `Approved` -> `Living`
 
 | Document | Priority | Status |
 |---|---|---|
-| [System Architecture Overview](./06-architecture/system-architecture-overview.md) | High | Not Started |
-| [Tech Stack Decision Record (ADR)](./06-architecture/tech-stack-decision.md) | High | Not Started |
+| [System Architecture Overview](./06-architecture/system-architecture-overview.md) | High | Draft |
+| [Tech Stack Decision Record (ADR)](./06-architecture/tech-stack-decision.md) | High | Draft |
 | [Data Architecture](./06-architecture/data-architecture.md) | High | Not Started |
 | [API Design Guidelines](./06-architecture/api-design-guidelines.md) | High | Not Started |
-| [Provider Abstraction Layer](./06-architecture/provider-abstraction-layer.md) | High | Not Started |
-| [AI Agent Architecture](./06-architecture/ai-agent-architecture.md) | High | Not Started |
+| [Provider Abstraction Layer](./06-architecture/provider-abstraction-layer.md) | High | Draft |
+| [AI Agent Architecture](./06-architecture/ai-agent-architecture.md) | High | Draft |
 | [Scalability & Performance Plan](./06-architecture/scalability-plan.md) | Medium | Not Started |
 | [Third-Party Integration Architecture](./06-architecture/integration-architecture.md) | High | Not Started |
 
