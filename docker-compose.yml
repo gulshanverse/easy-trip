@@ -48,7 +48,6 @@ services:
     ports:
       - "8000:8000"
     environment:
-      DATABASE_URL: postgres://easytrip:easytrip_dev_password@postgres:5432/easytrip
       CORE_API_URL: http://core-api:3000
     depends_on:
       postgres:

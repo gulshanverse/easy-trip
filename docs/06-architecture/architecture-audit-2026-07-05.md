@@ -131,7 +131,7 @@ Folder structure, scalability, naming conventions, package organization, depende
 
 ## Action Items
 
-- [ ] Approve or amend ADR-001 (AI service DB access)
+- [x] Approve or amend ADR-001 (AI service DB access) — **Approved & implemented 2026-07-05, see `adr/adr-001-ai-service-database-boundary.md`**
 - [ ] Decide ORM/migration tool for core-api (Prisma vs. TypeORM vs. Drizzle — comparison to follow if requested)
 - [ ] Decide auth approach (build vs. managed IdP — comparison to follow if requested)
 - [ ] Apply API versioning to existing `/health` routes before adding new ones
